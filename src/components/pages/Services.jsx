@@ -1,6 +1,6 @@
 import React from "react";
 
-const Services = () => {
+export const Services = () => {
     return(
     <div>
         <div> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam enim qui, ipsa vero natus temporibus earum facilis atque quo id incidunt consectetur sit quae deserunt placeat itaque fugiat magni magnam iusto fugit adipisci. Unde quos omnis perspiciatis reprehenderit ut! Aspernatur laboriosam architecto atque magni at, nihil sed est incidunt sunt facere fugiat possimus nobis, necessitatibus earum fugit enim praesentium dicta ab quasi maxime voluptatibus vel! Et labore quia saepe aut unde? Exercitationem mollitia, magnam perspiciatis provident illo fuga repudiandae eaque deleniti dolores iusto veniam ullam consequatur in repellendus ipsam repellat reiciendis molestiae earum sequi ut! Accusantium vitae aspernatur quam voluptate.</div>
@@ -21,4 +21,3 @@ const Services = () => {
     );
 }
 
-export default Services;
